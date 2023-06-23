@@ -1,0 +1,22 @@
+:root {
+  --main-color: #9a9cea;
+  --primary-color: #a2b9ee;
+  --secondary-color: #a2dcee;
+  --light-green: #adeee2;
+  --white: #9a9cea;
+  --dark: #222222;
+}
+
+body {
+  margin: 0;
+  padding: 0 9%;
+  font-family: "Roboto", sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul {
+  list-style: none;
+}
