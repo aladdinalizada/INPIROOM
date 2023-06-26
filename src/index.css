@@ -8,6 +8,7 @@
 }
 
 body {
+  max-width: 1550px;
   margin: 0;
   padding: 0 9%;
   font-family: "Roboto", sans-serif;
@@ -20,3 +21,5 @@ a {
 ul {
   list-style: none;
 }
+
+/* --main-color: #888beb; */
